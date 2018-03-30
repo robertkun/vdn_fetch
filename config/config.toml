@@ -1,0 +1,9 @@
+DB_IP_S = "127.0.0.1"
+DB_IP_D = "127.0.0.2"
+DB_PORT = 6000
+DB_USER = "user"
+DB_PASS = "passwd"
+DB_MAX_OPEN = 100
+DB_MAX_IDLE = 10
+
+CDN_ID = 1
