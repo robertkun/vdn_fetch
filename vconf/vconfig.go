@@ -12,8 +12,8 @@ import (
 )
 
 var gConf Config
-var gUser string = "vdnCloud"
-var aeskey = []byte("q3e023u9y8d2fwfl")
+var gUser string = "user"
+var aeskey = []byte("passwd")
 
 type Config struct {
 	DB_IP_S string		// DB Ip
